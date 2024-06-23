@@ -1,6 +1,13 @@
 # 1 GPU via Colab 
   
+##  f1, f2,f3,f4,f5  ( cu file )
+    
+    used in colab by using following steps
+    upload f1.cu file in to colab project 
 
+    	!nvcc f1.cu -o a1.out
+     	!./a1.out
+    
 ##  Example 1 ( cu file )
     
     use ex1.cu in Notebook cell ( copy and past and run in cell)
