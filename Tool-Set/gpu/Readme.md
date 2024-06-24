@@ -1,6 +1,6 @@
 # 1 GPU via Colab 
   
-##  f1, f2,f3,f4,f5  ( cu file )
+##  f1, f2,f3,f4,f5,f6,f7,f7a,f7b,fp16f7c, fp32f7c ( cu file )
     
     used in colab by using following steps
     upload f1.cu file in to colab project 
