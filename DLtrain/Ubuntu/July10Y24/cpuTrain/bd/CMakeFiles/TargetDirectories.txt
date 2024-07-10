@@ -1,3 +1,0 @@
-/home/jk/dev/DLtrain/TestJuly10Y24/cpuTrain/bd/CMakeFiles/DLtrain.dir
-/home/jk/dev/DLtrain/TestJuly10Y24/cpuTrain/bd/CMakeFiles/edit_cache.dir
-/home/jk/dev/DLtrain/TestJuly10Y24/cpuTrain/bd/CMakeFiles/rebuild_cache.dir
